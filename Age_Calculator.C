@@ -1,5 +1,5 @@
-# Developer : BAPUSO SAWANT
-# AGE CALCULATOR
+// Developer : BAPUSO SAWANT
+//Project : AGE CALCULATOR
 
 #include<stdio.h>
 #include<conio.h>
